@@ -1,4 +1,4 @@
-/*Hello World dfjajdjlaj*/
+/*Hello World*/
 import java.util.Scanner;
 
 public class Biodata {
