@@ -14,7 +14,7 @@ public class Biodata {
         Scanner input_bio=new Scanner (System.in);
         //nama
         System.out.print("Nama:");
-        Nama="Soleh";
+        Nama="Leh";
         //nim
         System.out.print("Nim:");
         Nim="1917";
